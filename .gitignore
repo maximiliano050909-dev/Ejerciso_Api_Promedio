@@ -1,0 +1,37 @@
+# Entorno virtual
+
+venv/
+env/
+
+# Archivos de Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno
+
+.env
+
+# Archivos del sistema
+
+.DS_Store
+Thumbs.db
+
+# Archivos de VS Code
+
+.vscode/
+
+# Logs
+
+*.log
+
+# Archivos temporales
+
+*.tmp
+
+# Archivos de pruebas o imágenes (opcional)
+
+*.png
+*.jpg
