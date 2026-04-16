@@ -91,7 +91,7 @@ http://127.0.0.1:5000
 }
 ```
 
-![alt text](image.png)
+![alt text](image2.png)
 
 ---
 
@@ -139,4 +139,4 @@ La API valida que los datos sean correctos. En caso contrario, devuelve un mensa
 
 Proyecto desarrollado como práctica de APIs con Flask.
 
-![alt text](image-1.png)
+![alt text](image1.png)
